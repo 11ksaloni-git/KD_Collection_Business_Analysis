@@ -1,2 +1,1 @@
-# KD_Collection_Business_Analysis
-Business analysis project for KD Collection featuring SQL analysis, Excel dashboards, sales insights, customer trends, and business performance reporting.
+<img width="1149" height="1369" alt="Readme file KD" src="https://github.com/user-attachments/assets/37b1c5b7-33d9-4844-bce9-99c83656fe70" />
